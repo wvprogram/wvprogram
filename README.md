@@ -1,6 +1,6 @@
 - 👋 Hi, I’m WV
 - 👀 I’m interested in learning about programming.
-- 🌱 I’m currently learning front end web development and mainly JavaScript
+- 🌱 I’m currently learning front end web development
 - 💞️ I’m looking to collaborate on any project to biuld my programming skills
 - 📫 How to reach me wvprogram1983@gmail.com
 
