@@ -1,7 +1,7 @@
 - 👋 Hi, I’m WV
-- 👀 I’m interested in learning about programming.
-- 🌱 I’m currently learning front end web development
-- 💞️ I’m looking to collaborate on any project to biuld my programming skills
+- 👀 I’m interested in programming.
+- 🌱 I’m currently working as a web developer.
+- 💞️ I loving learning and biulding my own independent projects.
 - 📫 How to reach me wvprogram1983@gmail.com
 
 <!---
